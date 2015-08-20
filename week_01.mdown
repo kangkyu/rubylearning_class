@@ -1,0 +1,16 @@
+http://rubylearning.org/classes/course/view.php?id=61
+
+8 August - 14 August
+Week 1!
+
+ Read: The Philosophy of Ruby URL
+ Ruby Coding Style / Convention Page
+ <del>How to use IRB Page</del>
+ Course Ruby Programs URL
+ Read: Week 1 - Tutorial Page
+ Some useful Ruby methods Page
+ Do: Week 1 - Exercises Page
+ Week 1: Forum
+ *PARALLEL TRACK* Start using Git and GitHub Page
+ Git/GitHub Discussions Forum 9 unread posts
+ Do: Week 1 - Quiz
