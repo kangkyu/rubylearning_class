@@ -1,3 +1,13 @@
+class Klass
+  def initialize(hello)
+    @hello = hello
+  end
+
+  def say_hello
+    @hello
+  end
+end
+
 # Exercise1. Write a Ruby program named lesson7exercise1.rb that defines a class called Klass which will be called in another program as follows:
 
 obj = Klass.new("hello")
